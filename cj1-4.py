@@ -14,6 +14,11 @@ class Cat:
         print(f"A cat is furry: {self.is_furry}")
 
 
-cat = Cat()
+def main():
+    cat = Cat()
 
-cat.print()
+    cat.print()
+
+
+if __name__ == "__main__":
+    main()
