@@ -1,0 +1,18 @@
+This is TeX, Version 3.141592 (Web2C 7.5.4) (format=tex 2023.6.25)  28 NOV 2023 12:21
+**exit
+
+(/nix/store/mkjmn3scd4mqrf565875jgyrl4977qnv-tetex-3.0/share/texmf-dist/tex/lat
+ex/tools/q.tex
+! Interruption.
+l.2 
+    %% This is file `q.tex',
+? q
+OK, entering \batchmode...
+ File ignored
+)
+! Emergency stop.
+<*> exit
+        
+*** (job aborted, no legal \end found)
+
+No pages of output.

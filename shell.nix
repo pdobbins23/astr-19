@@ -6,6 +6,7 @@ let
     astropy
     scipy
     tensorflow
+    keras
     jupyter
     cython
     (
